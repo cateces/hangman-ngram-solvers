@@ -1,5 +1,5 @@
 """
-Hangman Solvers - Mathematics of Machine Learning
+Hangman Solvers
 Solvers: Random, Frequency, 2-gram (backoff), 3-gram (backoff),
          Interpolation (equal), Interpolation (trigram-heavy),
          Interpolation (unigram-heavy), Pattern (candidate filtering)
